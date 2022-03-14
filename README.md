@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Heber%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heberhenrique/)](https://www.linkedin.com/in/heberhenrique/) [![Gmail Badge](https://img.shields.io/badge/-heberhenrique@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heberhenrique@gmail.com)](mailto:ihenrits@gmail.com)
 
-I've been worked with software development since 2009 and since then I worked with several different
+I've been working with software development since 2009 and since then I worked with several different
 technologies and programming languages but almost every time was using .Net and C#.
 
 I'm TechLead and Senior FullStack Developer at [ModalMais](https://www.modalmais.com.br/onboarding/).
