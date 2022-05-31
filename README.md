@@ -11,4 +11,4 @@ I'm TechLead and Senior FullStack Developer at [ModalMais](https://www.modalmais
 
 I studied Systems Analysis and Development at [Metodista](https://metodista.br/graduacao-presencial/analise-e-desenvolvimento-de-sistemas/).
 
-I'm also share some of my current expirience at [@LetsCode](https://github.com/Letscode-br).
+I'm also share some of my current experience at [@LetsCode](https://github.com/Letscode-br).
